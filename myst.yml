@@ -1,0 +1,17 @@
+version: 1
+project:
+  title: ⚽ Mundial FIFA 2026 — Nueva York
+  authors:
+    - name: Aldeir Herrera
+  toc:
+    - file: intro.md
+    - file: plan_diario.md
+      title: 📅 Plan Diario
+    - file: plan_horario.md
+      title: 🗓️ Agenda por Horas
+    - file: galeria.md
+      title: 🗺️ Galería de Lugares
+site:
+  options:
+    folders: true
+  template: book-theme

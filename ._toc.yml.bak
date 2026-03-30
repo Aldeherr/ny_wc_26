@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+chapters:
+  - file: plan_diario
+    title: "📅 Plan Diario"
+  - file: plan_horario
+    title: "🗓️ Agenda por Horas"
+  - file: galeria
+    title: "🗺️ Galería de Lugares"
